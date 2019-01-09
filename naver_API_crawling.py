@@ -5,8 +5,8 @@ import time
 
 site = 'https://openapi.naver.com/v1/search/blog.json'
 #header 정보
-client_id= 'u0mNqMsAQlQ_zizpeVT3'
-client_secret = 'R1NPsYx2Yv'
+client_id= 'your id'
+client_secret = 'your pw'
 #파라미터
 query = '맥주','리뷰'
 display = 100
